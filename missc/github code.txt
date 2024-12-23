@@ -1,0 +1,18 @@
+# Step 1: Navigate to your project folder
+cd /path/to/your/project
+
+# Step 2: Initialize the Git repository
+git init
+
+# Step 3: Add your files to the staging area
+git add .
+
+# Step 4: Commit your changes
+git commit -m "Initial commit"
+
+# Step 5: Add your GitHub repository as a remote origin
+# Replace <username> and <repo-name> with your GitHub username and repository name
+git remote add origin https://github.com/BarjnderSE/ML-Learning.git
+# Step 6: Push the code to GitHub
+git branch -M main
+git push -u origin main
