@@ -16,3 +16,4 @@ git remote add origin https://github.com/BarjnderSE/ML-Learning.git
 # Step 6: Push the code to GitHub
 git branch -M main
 git push -u origin main
+git remote add origin https://github.com/BarjnderSE/Data-science.git
